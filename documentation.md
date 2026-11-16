@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 1. Master Navigation & Role Flow
+## 🧭 1. Navigation & Role Flow
 
 ```text
                         +-----------------------+
@@ -256,7 +256,7 @@ Controls examination windows (`Slot Creation Window` and `Student Booking Window
 
 ```text
 +-----------------------------------------------------------------------+
-| 🎓 EMP Portal | Dashboard                          [Dr. Sharma] [Logout]|
+| 🎓 EMP Portal | Dashboard                          [Saurabh] [Logout]|
 +-----------------------------------------------------------------------+
 |  +--------------------+  +--------------------+  +------------------+ |
 |  | ASSIGNED EXAMS: 02 |  | CREATED SLOTS: 05  |  | PENDING EVAL: 04 | |
@@ -277,7 +277,7 @@ Controls examination windows (`Slot Creation Window` and `Student Booking Window
 |  +----------------+------------------+-----------+-----------------+  |
 |  | Saurabh        | saurabh@edu.in   | Booked    | [Evaluate ->]   |  |
 |  +----------------+------------------+-----------+-----------------+  |
-|  | Ananya         | ananya@edu.in    | Completed | [View Marks]    |  |
+|  | xyz            | xyz@edu.in       | Completed | [View Marks]    |  |
 |  +----------------+------------------+-----------+-----------------+  |
 +-----------------------------------------------------------------------+
 ```
@@ -318,9 +318,9 @@ Controls examination windows (`Slot Creation Window` and `Student Booking Window
 
 ### 5.1 Global Navigation Header (Student)
 ```text
-+-----------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------+
 | 🎓 EMP Portal | Dashboard | Available Exams | Results | Profile | [Saurabh] [Logout] |
-+-----------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------+
 ```
 
 ### 5.2 Student Dashboard & Booking History (`/student/dashboard`)
